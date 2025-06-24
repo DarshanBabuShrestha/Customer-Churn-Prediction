@@ -1,5 +1,4 @@
 
-portfolio project
 
 # Customer Churn Prediction Project
 
